@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Hello",
+    "description": "Minimal example bundle that logs once when the profile loads it."
+  }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="DSH Hello">
+  <defs>
+    <linearGradient id="dshHelloBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b6df6" />
+      <stop offset="1" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#dshHelloBg)" />
+  <path d="M20 17h9.5a15 15 0 0 1 0 30H20z" fill="#ffffff" opacity="0.95" />
+  <rect x="28.5" y="23.5" width="9" height="17" rx="4.5" fill="#3b6df6" opacity="0.85" />
+</svg>

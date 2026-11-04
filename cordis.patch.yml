@@ -1,0 +1,8 @@
+# dsh-hello — the bundle's patch layer.
+# Applied after every bundle layer in the profile composition.
+# `id` is the Loader entry identity; `name` must be the package name this
+# bundle installs as (it is resolved from the profile's node_modules).
+- insert:
+    - id: dsh-hello
+      name: 'dsh-hello'
+      config: {}
